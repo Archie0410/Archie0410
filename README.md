@@ -28,12 +28,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchanaBaParmar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArchanaBaParmar&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archie0410&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Archie0410&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchanaBaParmar&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archie0410&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
@@ -41,7 +41,8 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchanaBaParmar&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archie0410&theme=tokyo-night" />
+
 </p>
 
 ---
