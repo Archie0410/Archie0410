@@ -1,7 +1,66 @@
-👋 Hi, I’m @Archie0410
-👀 I’m interested in AI/ML and Web Development
-🌱 I’m currently learning LLM training and MERN Stack
-💞️ I’m looking to collaborate on AI-driven web applications, full-stack projects, and innovative tech solutions
-📫 How to reach me: https://www.linkedin.com/in/archana-parmar-353694268/
-😄 Pronouns: She/Her (or your preferred pronouns)
-⚡ Fun fact: I love exploring new tech stacks and building projects that solve real-world problems!
+<h1 align="center">Hey 👋, I'm Archana Ba Parmar</h1>
+<h3 align="center">AI/ML Developer | Web Enthusiast | Tech Leader</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;Machine%20Learning%20Explorer;Tech%20Community%20Leader;Tech%20for%20Revolution🚀&center=true&width=500&height=45" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently building smart apps with **AI/ML + MERN**
+- 🌱 Exploring: **Neural Networks, Express.js, and advanced React**
+- 🧩 Leading & learning at **PU AI Society and CDC**
+- 👯 Open to collaborating on innovative projects
+- ⚡ Fun fact: I love blending code & creativity for real-world impact!
+
+---
+
+## 🔧 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArchanaBaParmar&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArchanaBaParmar&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchanaBaParmar&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchanaBaParmar&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/archanabaparmar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:archanabaparmar@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Tech%20for%20Revolution&theme=tokyonight&type=horizontal" />
+</p>
+
+---
