@@ -50,10 +50,10 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/archanabaparmar/" target="_blank">
+  <a href="https://www.linkedin.com/in/archana-parmar-353694268/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:archanabaparmar@gmail.com">
+  <a href="mailto:archanaparmar419@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
