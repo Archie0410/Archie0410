@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Developer | Web Enthusiast | Tech Leader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;Machine%20Learning%20Explorer;Tech%20Community%20Leader;Tech%20for%20Revolution🚀&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20Developer;Machine%20Learning%20Explorer;Tech%20Community%20Leader;Tech%20for%20Revolution🚀&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -56,6 +56,12 @@
   <a href="mailto:archanaparmar419@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20Developer;Machine%20Learning%20Explorer;Tech%20Community%20Leader;Tech%20for%20Revolution🚀&center=true&width=500&height=45" />
 </p>
 
 ---
