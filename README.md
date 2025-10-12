@@ -38,13 +38,6 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archie0410&theme=tokyo-night" />
-
-</p>
-
 ---
 
 ## 📫 Let's Connect!
